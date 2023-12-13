@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ARANO8.github.io/Proyecto/static/css/main.3986b24f.css",
-    "main.js": "/ARANO8.github.io/Proyecto/static/js/main.779774dd.js",
-    "static/media/equipo.jpg": "/ARANO8.github.io/Proyecto/static/media/equipo.86ddb6115381e0cc8337.jpg",
-    "static/media/slide2.jpg": "/ARANO8.github.io/Proyecto/static/media/slide2.2a608294c99a515b946d.jpg",
-    "static/media/slide3.jpg": "/ARANO8.github.io/Proyecto/static/media/slide3.193e5721b348776afefc.jpg",
-    "static/media/slide1.jpg": "/ARANO8.github.io/Proyecto/static/media/slide1.1c638a91cbe6672d283e.jpg",
-    "static/media/bootstrap-icons.woff?": "/ARANO8.github.io/Proyecto/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
-    "static/media/bootstrap-icons.woff2?": "/ARANO8.github.io/Proyecto/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
-    "static/media/perfil.jpg": "/ARANO8.github.io/Proyecto/static/media/perfil.e3828047c615e5055d5e.jpg",
-    "static/media/support.png": "/ARANO8.github.io/Proyecto/static/media/support.606a9271c18859b421b9.png",
-    "static/media/logow.png": "/ARANO8.github.io/Proyecto/static/media/logow.e61c39254fd2f210d16b.png",
-    "index.html": "/ARANO8.github.io/Proyecto/index.html",
-    "main.3986b24f.css.map": "/ARANO8.github.io/Proyecto/static/css/main.3986b24f.css.map",
-    "main.779774dd.js.map": "/ARANO8.github.io/Proyecto/static/js/main.779774dd.js.map"
+    "main.css": "/Proyecto/static/css/main.31295b5b.css",
+    "main.js": "/Proyecto/static/js/main.2d32be12.js",
+    "static/media/equipo.jpg": "/Proyecto/static/media/equipo.86ddb6115381e0cc8337.jpg",
+    "static/media/slide2.jpg": "/Proyecto/static/media/slide2.2a608294c99a515b946d.jpg",
+    "static/media/slide3.jpg": "/Proyecto/static/media/slide3.193e5721b348776afefc.jpg",
+    "static/media/slide1.jpg": "/Proyecto/static/media/slide1.1c638a91cbe6672d283e.jpg",
+    "static/media/bootstrap-icons.woff?": "/Proyecto/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/Proyecto/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/perfil.jpg": "/Proyecto/static/media/perfil.e3828047c615e5055d5e.jpg",
+    "static/media/support.png": "/Proyecto/static/media/support.606a9271c18859b421b9.png",
+    "static/media/logow.png": "/Proyecto/static/media/logow.e61c39254fd2f210d16b.png",
+    "index.html": "/Proyecto/index.html",
+    "main.31295b5b.css.map": "/Proyecto/static/css/main.31295b5b.css.map",
+    "main.2d32be12.js.map": "/Proyecto/static/js/main.2d32be12.js.map"
   },
   "entrypoints": [
-    "static/css/main.3986b24f.css",
-    "static/js/main.779774dd.js"
+    "static/css/main.31295b5b.css",
+    "static/js/main.2d32be12.js"
   ]
 }
