@@ -1,6 +1,5 @@
 import React from "react";
 import logow from "../assets/logow.png";
-import { Link } from 'react-router-dom';
 const Menu = () => {
   return (
     <div>

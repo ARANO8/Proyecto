@@ -3,6 +3,7 @@ import support from '../assets/support.png';
 
 import './nuevos.css';
 
+
 const Contacto = () => {
   return (
   <Fragment>
@@ -14,11 +15,10 @@ const Contacto = () => {
       <div className="text-center mb-4" id="titulo-formulario">
         <div><img src={support} alt="" className="img-fluid ps-5"/></div>
         <h2>Contactanos</h2>
-        <p className="fs-5">Estamos aqui para hacer realidad de tus proyectos</p>
+        <p className="fs-5">Estamos aqui para enseñarte Idiomas</p>
       </div>
 
-     
-
+    
       <form   method="POST" data-netlify="true" action="#">     
             <div className= "mb-3">           
               <input type="email" className="form-control" id="email" name="email" placeholder="nombre@ejemplo.com"/>

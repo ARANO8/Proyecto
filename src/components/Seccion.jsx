@@ -1,9 +1,6 @@
 import React from "react";
 import { Fragment } from "react/cjs/react.production.min";
-//import Prueba2 from './Prueba2.jsx'
 import 'bootstrap-icons/font/bootstrap-icons.css';
-
-import seo from "../assets/seo.png";
 
 const Seccion = () => {
   return (

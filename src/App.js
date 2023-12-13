@@ -1,5 +1,4 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import "./App.css";
 import About from "./components/About";
 import Contacto from "./components/Contacto.jsx";
@@ -13,7 +12,7 @@ import Creditos from "./components/Creditos.jsx";
 function App() {
   return (
 
-    <Router>
+    
       <div className="App">
         <Menu />
         <Slide />
@@ -22,11 +21,8 @@ function App() {
         <Contacto/>
         <Creditos/>
         <Footer/>
-        {/* <Switch>
-          <Route path="/Creditos" component={Creditos} />
-        </Switch> */}
       </div>
-    </Router>
+    
   );
 }
 
