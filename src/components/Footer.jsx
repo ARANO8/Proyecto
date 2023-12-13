@@ -1,5 +1,4 @@
-import React from "react";
-import { Fragment } from "react/cjs/react.development";
+import React, { Fragment } from "react";
 
 const Footer = () => {
   return (

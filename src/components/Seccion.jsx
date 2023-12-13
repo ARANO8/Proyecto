@@ -1,6 +1,5 @@
-import React from "react";
-import { Fragment } from "react/cjs/react.production.min";
 import 'bootstrap-icons/font/bootstrap-icons.css';
+import React, { Fragment } from "react";
 
 const Seccion = () => {
   return (
