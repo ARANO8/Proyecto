@@ -1,5 +1,6 @@
 import React from "react";
 import logow from "../assets/logow.png";
+import { Link } from 'react-router-dom';
 const Menu = () => {
   return (
     <div>
@@ -11,7 +12,7 @@ const Menu = () => {
       <nav className="navbar navbar-expand-lg navbar-light p-3 " id="menu">
         <div className="container">
           <a className="navbar-brand" href="#">
-            <img src={logow} width="130" alt="" />
+            <img src={logow} width="240" alt="" />
           </a>
           <button
             className="navbar-toggler"
@@ -42,6 +43,11 @@ const Menu = () => {
                   Contactos
                 </a>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="#seccion-contacto">
+                  Creditos
+                </a>
+              </li>
             </ul>
             <form className="d-flex">
               <input
@@ -51,7 +57,7 @@ const Menu = () => {
                 aria-label="Suscribete"
               />
               <button
-                className="btn btn-primary btn-primary-outline-success"
+                className="btn btn-danger btn-danger-outline-success"
                 type="button"
               >
                 Suscribete

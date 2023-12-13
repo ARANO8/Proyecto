@@ -7,14 +7,11 @@ const About = () => {
     <Fragment>
       <section>
         <div className="container w-50 m-auto text-center" id="equipo">
-          <h1 className="mb-5 fs-2">
-            Equipo pequeño con{" "}
-            <span className="text-primary">resultados Grandes</span>.
+          <h1 className="mb-5 fs-2 text-danger">
+          PLATAFORMA VIRTUAL - NUESTROS PRODUCTOS
           </h1>
           <p className="fs-4 ">
-            Siempre buscamos las personas adecuadas para que trabajen con
-            nosotros. Si te sientes listo para este reto, te esperamos para que
-            te unas a nosotros.
+          Ahora podrás seguir actualizándote con nuestros cursos online, presenciales, semipresenciales diseñados para que puedas seguir especializándote en la seguridad de tu hogar o en nuestras comodas aulas y con la más alta calidad educativa. ¡Ven te esperamos!
           </p>
         </div>
 
@@ -26,30 +23,33 @@ const About = () => {
           <div className="mapa"> </div>
           <div>
             <div className="wrapper-local">
-              <h2>Ubicado en Buenos Aires, Argentina</h2>
+              <h2 className="text-warning">CONTACTO</h2>
               <h2 className="mb-4" id="typewriter"></h2>
-              <p className="fs-5 text-body">
-                Elijimos Buenos Aires para nuestra oficina con el objetivo de
-                estar cerca a nuestros clientes. Estamos ubicados en Boedo, el
-                corazon y el centro financiero de Buenos Aires, cerca de los
-                mejores restaurantes, tiendas y tan solo 10 minutos de
-                Microcentro Porteño. ¡Visitennos y no se arrepentiran!
+              <p className="fs-5 text-light">
+              Abrimos el mundo a través del aprendizaje de idiomas, el intercambio cultural, los programas académicos y los viajes educativos.
               </p>
               <section
                 className="d-flex justify-content-start"
                 id="numeros-local"
               >
+
+                
                 <div>
-                  <p className="text-primary fs-5">200</p>
-                  <p>Proyectos</p>
+                <i class="bi bi-geo-alt-fill" style={{ fontSize: '2rem', color: 'white' }}></i>
+                  <p className="text-warning fs-5">DIRECCION</p>
+                  <p className="text-light">Av. Mariscal Santa Cruz. Edif. San Pablo Piso 4</p>
                 </div>
                 <div>
-                  <p className="text-primary fs-5">100%</p>
-                  <p>Aprobado</p>
+                <i class="bi bi-telephone-fill" style={{ fontSize: '2rem', color: 'white' }}></i>
+                  <p className="text-warning fs-5">CONTACTOS</p>
+                  <p className="text-light"> +591 60168378
+
++591 79542857</p>
                 </div>
                 <div>
-                  <p className="text-primary fs-5">100%</p>
-                  <p>Eficiencia</p>
+                <i class="bi bi-geo-alt-fill" style={{ fontSize: '2rem', color: 'white' }}></i>
+                  <p className="text-warning fs-5">EMAIL</p>
+                  <p className="text-light">institutofirstclass@gmail.com</p>
                 </div>
               </section>
             </div>
